@@ -39,6 +39,9 @@
                                             <fontDescription key="titleFontDescription" name="GeezaPro-Bold" family="Geeza Pro" pointSize="20"/>
                                             <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="keyPressedCSharp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="P4W-VH-Ynp"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZAT-bI-6gJ">
                                         <rect key="frame" x="124.5" y="0.0" width="61" height="293"/>
@@ -48,6 +51,9 @@
                                             <fontDescription key="titleFontDescription" name="GeezaPro-Bold" family="Geeza Pro" pointSize="30"/>
                                             <color key="baseForegroundColor" systemColor="tintColor"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="keyPressedD:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2Bg-qg-6FY"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eIO-kB-217">
                                         <rect key="frame" x="186.5" y="0.0" width="61.5" height="293"/>
@@ -57,6 +63,9 @@
                                             <fontDescription key="titleFontDescription" name="GeezaPro-Bold" family="Geeza Pro" pointSize="20"/>
                                             <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="pressedKeyDSharp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Lbs-VN-RMb"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vjl-vo-abM">
                                         <rect key="frame" x="249" y="0.0" width="61" height="293"/>
@@ -66,6 +75,9 @@
                                             <fontDescription key="titleFontDescription" name="GeezaPro-Bold" family="Geeza Pro" pointSize="30"/>
                                             <color key="baseForegroundColor" systemColor="tintColor"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="pressedKeyE:" destination="BYZ-38-t0r" eventType="touchUpInside" id="h4m-qK-b8P"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pd0-QL-SEt">
                                         <rect key="frame" x="311" y="0.0" width="61.5" height="293"/>
@@ -75,6 +87,9 @@
                                             <fontDescription key="titleFontDescription" name="GeezaPro-Bold" family="Geeza Pro" pointSize="30"/>
                                             <color key="baseForegroundColor" systemColor="tintColor"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="pressedKeyF:" destination="BYZ-38-t0r" eventType="touchUpInside" id="j3r-z7-aVn"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KJa-NE-6C7">
                                         <rect key="frame" x="373.5" y="0.0" width="61" height="293"/>
@@ -84,6 +99,9 @@
                                             <fontDescription key="titleFontDescription" name="GeezaPro-Bold" family="Geeza Pro" pointSize="20"/>
                                             <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="pressedKeyFSharp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ArX-be-lZT"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="068-FN-1Oh">
                                         <rect key="frame" x="435.5" y="0.0" width="61.5" height="293"/>
@@ -93,6 +111,9 @@
                                             <fontDescription key="titleFontDescription" name="GeezaPro-Bold" family="Geeza Pro" pointSize="30"/>
                                             <color key="baseForegroundColor" systemColor="tintColor"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="pressedKeyG:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FDz-Qv-MVA"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Z0I-oP-uvA">
                                         <rect key="frame" x="498" y="0.0" width="61" height="293"/>
@@ -102,6 +123,9 @@
                                             <fontDescription key="titleFontDescription" name="GeezaPro-Bold" family="Geeza Pro" pointSize="20"/>
                                             <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="pressedKeyGSharp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="SxL-y0-31H"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7c2-c3-dtI">
                                         <rect key="frame" x="560" y="0.0" width="61.5" height="293"/>
@@ -111,6 +135,9 @@
                                             <fontDescription key="titleFontDescription" name="GeezaPro-Bold" family="Geeza Pro" pointSize="30"/>
                                             <color key="baseForegroundColor" systemColor="tintColor"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="pressedKeyA:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HuT-F4-6Oe"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5Db-Pr-VZm">
                                         <rect key="frame" x="622.5" y="0.0" width="61" height="293"/>
@@ -120,6 +147,9 @@
                                             <fontDescription key="titleFontDescription" name="GeezaPro-Bold" family="Geeza Pro" pointSize="20"/>
                                             <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="pressedKeyASharp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Isg-YS-ZMF"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BvX-3X-OHy">
                                         <rect key="frame" x="684.5" y="0.0" width="61.5" height="293"/>
@@ -129,6 +159,9 @@
                                             <fontDescription key="titleFontDescription" name="GeezaPro-Bold" family="Geeza Pro" pointSize="30"/>
                                             <color key="baseForegroundColor" systemColor="tintColor"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="pressedKeyB:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8sR-cu-hvw"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YiN-FQ-9sa">
                                         <rect key="frame" x="747" y="0.0" width="61" height="293"/>
@@ -138,6 +171,9 @@
                                             <fontDescription key="titleFontDescription" name="GeezaPro-Bold" family="Geeza Pro" pointSize="30"/>
                                             <color key="baseForegroundColor" systemColor="tintColor"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="pressedKeyHighC:" destination="BYZ-38-t0r" eventType="touchUpInside" id="XeW-YY-gvw"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                             </stackView>
